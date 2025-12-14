@@ -11,7 +11,7 @@ class ConverterPage extends StatefulWidget {
 
 class _ConverterPageState extends State<ConverterPage> {
   TextEditingController nameController = TextEditingController();
-  TextEditingController passController = TextEditingController();PaddleSliderValueIndicatorShape
+  TextEditingController passController = TextEditingController();
 
   String name = "";
   String? nameError;
